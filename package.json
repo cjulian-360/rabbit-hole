@@ -1,0 +1,22 @@
+{
+  "name": "rabbit-hole",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cjulian-360/rabbit-hole.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cjulian-360/rabbit-hole/issues"
+  },
+  "homepage": "https://github.com/cjulian-360/rabbit-hole#readme",
+  "dependencies": {
+    "amqplib": "^0.5.1"
+  }
+}
